@@ -1,6 +1,6 @@
 # Linux Doctor
 
-! [Linux Doctor] (https://raw.githubusercontent.com/oh-okay/Linux-Doctor/blob/main/assets/icon.png)
+! [Linux Doctor] ([https://raw.githubusercontent.com/oh-okay/Linux-Doctor/blob/main/assets/icon.png](https://github.com/oh-okay/Linux-Doctor/blob/main/assets/icon.png?raw=true))
 
 A little Linux diagnostic tool for when something is broken and you don't feel like digging through ten different commands first.
 
