@@ -1,5 +1,7 @@
 # Linux Doctor
 
+! [Linux Doctor] (https://raw.githubusercontent.com/oh-okay/Linux-Doctor/blob/main/assets/icon.png)
+
 A little Linux diagnostic tool for when something is broken and you don't feel like digging through ten different commands first.
 
 Linux Doctor runs a handful of read-only checks and puts the useful bits in one terminal report. It looks at the system, hardware, storage, network, services, kernel, and running processes.
