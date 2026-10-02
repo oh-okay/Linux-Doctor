@@ -1,6 +1,6 @@
 # Linux Doctor
 
-![Linux Doctor](assets/icon.png))
+![Linux Doctor](assets/icon.png)
 
 A little Linux diagnostic tool for when something is broken and you don't feel like digging through ten different commands first.
 
