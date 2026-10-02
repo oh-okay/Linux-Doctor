@@ -88,4 +88,4 @@ Everything runs locally. Linux Doctor has no telemetry, external API calls, back
 
 ## License
 
-MIT. See [LICENSE](LICENSE).
+absolutely no license
