@@ -1,0 +1,9 @@
+[project]
+name = "linux-doctor"
+version = "0.1.0"
+description = "A small, read-only Linux diagnostic CLI"
+requires-python = ">=3.9"
+dependencies = []
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
